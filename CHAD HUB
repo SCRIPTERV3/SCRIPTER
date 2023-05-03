@@ -1,7 +1,7 @@
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("GIGACHAD HUB", "Midnight")
+local Window = Library.CreateLib("GIGACHAD-HUB", "Midnight")
 local Tab = Window:NewTab("GAME SCRIPTS")
-local Section = Tab:NewSection("SCRIPTS")
 
 Section:NewButton("FNF", "ButtonInfo", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHead-FluxTeam/scripts/main/funky-friday-autoplay"))()

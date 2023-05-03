@@ -1,1 +1,219 @@
-# SCRIPTER
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("GIGACHAD HUB", "Midnight")
+local Tab = Window:NewTab("GAME SCRIPTS")
+local Section = Tab:NewSection("SCRIPTS")
+
+Section:NewButton("FNF", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShowerHead-FluxTeam/scripts/main/funky-friday-autoplay"))()
+    print("Clicked")
+end)
+
+Section:NewButton("DOORS V3.5", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrNeRD0/Doors-Hack/main/NeRDV3.5_New.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("Boxing beta", "ButtonInfo", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/UqxpNT9F"))()
+    print("Clicked")
+end)
+
+Section:NewButton("HITBOX EXPANDER", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/RobloxScripts/main/HitboxExpander.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("MM2", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vwSaraa/LunarHub/main/mm2"))()
+    print("Clicked")
+end)
+
+Section:NewButton("Keyboard script", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/advxzivhsjjdhxhsidifvsh/mobkeyboard/main/main.txt", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("POP IT TRADING", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kiroftt/popit/main/scripx'))()
+    print("Clicked")
+end)
+
+Section:NewButton("Blox fruit", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/snake-hub/main/blox-fruits.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("PET SIM X", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toosiwhip/legacy/main/statue.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("TOWER OF HELL", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2dgeneralspam1/scripts-and-stuff/master/scripts/garfield%20hub", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("KAT SCRIPT", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JNHHGaming/Kat12/main/Kat"))()
+    print("Clicked")
+end)
+
+Section:NewButton("BLOX FRUIT 2", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sixnumz/ZamexMobile/main/Zamex_Mobile.lua'))()
+    print("Clicked")
+end)
+
+Section:NewButton("Faction Tycoon", "ButtonInfo", function()
+local args = {
+    [1] = 9999999999999999999999999999999999999999
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("PlayerMoneyUpdate"):WaitForChild("YOUR USERNAME"):FireServer(unpack(arg))
+    print("Clicked")
+end)
+
+Section:NewButton("Permanent animation", "Not working", function()
+loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1016359889246879802/1039819753402941460/Protected.lua",true))()
+    print("Clicked")
+end)
+
+Section:NewButton("BIG PAINT BALL", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt"))();
+    print("Clicked")
+end)
+
+Section:NewButton("VAPE V4", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("NAVAL WARFARE", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KweeperDotJS/Aentrix/main/main.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("Build a boat", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/v1.1/main/Source'))()
+    print("Clicked")
+end)
+
+Section:NewButton("EVADE", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/TUPERX/TUPERX/Main/MenuBF/README.md'))()
+    print("Clicked")
+end)
+
+Section:NewButton("SLAP BATTLE", "ButtonInfo", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/cheesynob39/R20-EXPLOITER/main/Slap_Battles.lua")))()
+    print("Clicked")
+end)
+
+Section:NewButton("Custom editor v2", "ButtonInfo", function()
+loadstring(game:HttpGet("https://eternityhub.xyz/BetterRoblox/Loader"))()
+    print("Clicked")
+end)
+
+Section:NewButton("ABILITY WARS", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KweeperDotJS/Aentrix/main/main.lua"))()
+    print("Clicked")
+end)
+
+Section:NewButton("BUILD A BOAT", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NooVster/v1.1/main/Source'))()
+    print("Clicked")
+end)
+
+Section:NewButton("DA HOOD", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("FREEZER SCRIPT", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/creepstu/fuzzy-octo-giggle/main/Source'))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("SCRIPT HUBS")
+local Section = Tab:NewSection("SCRIPT 2")
+
+Section:NewButton("SCRIPT HUB 1", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/VcskV/main/Hub/main.lua", true))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 2 (TROLL HUB)", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AkilExploitz/AkilBlox14-s-Script-Hub-v1.1/9abbc0733af7c9113a5ecbaf4bb2ed5013a4e693/Ultimate%20Trolling%20GUI%20v1.5'))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 3", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MiniNoobie/MINI-HUB-V2/main/FINALLY%20UPDATED%20MINI%20HUB",true))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 4", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YourLocalNzi/Ye/main/Protected%20"))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 5", "ButtonInfo", function()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Davicoderliner/davigui/main/Daviguiv2loader.lua"),true))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 6", "ButtonInfo", function()
+loadstring(game:HttpGet("https://pastebin.com/raw/mDxvKtZe"))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 7", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IlikeyocutgHAH/MoonUI-v13-102-SCRIPTS/main/MoonUI%20v13!"))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 8", "ButtonInfo", function()
+loadstring(game:HttpGet(('https://pastebin.com/raw/brWwrinf'),true))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 9", "ButtonInfo", function()
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Veincx5315/Created/VHub/Simple'),true))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 10", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sxrge3k/sxrge_ssh_hub/main/sxrge_script_hub"))()
+    print("Clicked")
+end)
+
+Section:NewButton("SCRIPT HUB 11", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YourLocalNzi/Ye/main/RedCoat8102-obfuscated.lua"))()
+    print("Clicked")
+end)
+
+local Tab = Window:NewTab("ADMIN SCRIPT")
+local Section = Tab:NewSection("SCRIPT ADMIN")
+
+Section:NewButton("INF YIELD", "ButtonInfo", function()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+    print("Clicked")
+end)
+
+Section:NewButton("Admin 2", "prefix ;", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source"))();
+    print("Clicked")
+end)
+
+Section:NewButton("ADMIN 3", "ButtonInfo", function()
+_G.CustomUI = false
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/mgamingpro/HomebrewAdmin/master/Main'),true))()
+    print("Clicked")
+end)
+
+Section:NewButton("ADMIN 4", "ButtonInfo", function()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fatesc/fates-admin/main/main.lua"))();
+    print("Clicked")
+end)
+
+Section:NewLabel("MORE COMING SOON)
+Section:NewLabel("CREDITS TO OWNERS")
+Section:NewLabel("LIKE AND SUBSCRIBE")
